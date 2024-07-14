@@ -1,0 +1,16 @@
+.fw-bold {
+    font-weight: 500 !important;
+}
+
+.text-decoration-underline {
+    /* text-decoration: underline 3px !important; */
+    text-underline-offset: 4px;
+}
+
+.card-header {
+    font-size: 0.9rem !important;
+}
+
+.text-sm {
+    font-size: 0.85rem !important;
+}

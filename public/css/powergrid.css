@@ -1,0 +1,18 @@
+/* powergrid */
+.powergrid-table .dropdown-toggle {
+    border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+}
+
+.powergrid-table th {
+    text-transform: uppercase;
+}
+
+.powergrid-table thead td,
+.powergrid-table thead th {
+    padding-block: 1em !important;
+}
+
+
+.powergrid-table .pg-actions * {
+    display: inline-block !important;
+}
